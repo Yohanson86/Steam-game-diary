@@ -1,4 +1,4 @@
-# Steam Library (1800+ игр) & Multi-Platform Game Diary (Android)
+# Steam Library & Multi-Platform Game Diary (Android)
 
 Нативное Android-приложение на **Kotlin + Jetpack Compose + Room Database + Coil** с поддержкой облачной сборки `.apk` через **GitHub Actions** и трехуровневым облачным бэкапом (**Яндекс.Диск + Google Диск**).
 
