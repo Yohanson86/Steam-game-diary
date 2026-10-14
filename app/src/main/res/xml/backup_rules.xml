@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Автоматическое сохранение базы Room и настроек в Google Диск средствами Android -->
+    <include domain="database" path="steam_game_diary.db" />
+    <include domain=" database" path="steam_game_diary.db-wal" />
+    <include domain="database" path="steam_game_diary.db-shm" />
+    <include domain="sharedpref" path="game_diary_prefs.xml" />
+</full-backup-content>
